@@ -1,4 +1,5 @@
-![logo](https://drive.google.com/file/d/1WVmzPnNQY7zXz42vqJzi9lfU7KbCOCf3/view?usp=sharing)
+![logo](./BACKGROUND%20README.png)
+
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
