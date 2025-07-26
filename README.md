@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **kayasthayush123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1si-YjBrE3mxt-nSjMS2O2n2rzTmIKZSI/view?usp=sharing](https://drive.google.com/file/d/1si-YjBrE3mxt-nSjMS2O2n2rzTmIKZSI/view?usp=sharing)
+- 📄- 📄 Know about my experiences [https://drive.google.com/file/d/1Z12p7ptVx4h2Zntuvg69VgqDb_pN-HQe/view?usp=drive_link](https://drive.google.com/file/d/1Z12p7ptVx4h2Zntuvg69VgqDb_pN-HQe/view?usp=drive_link)
+
 
 - ⚡ Fun fact **I can fix your bugs and maybe steal your heart too.**
 
