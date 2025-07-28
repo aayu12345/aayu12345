@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning **Agentic AI , Udemy Generative AI Course by Krish Naik**
 
-- 👨‍💻 All of my projects are available at [https://aayu12345.github.io/PORTFOLIO/](https://aayu12345.github.io/PORTFOLIO/)
+-👨‍💻 All of my projects are available at [https://aayuport.netlify.app/](https://aayuport.netlify.app/)
+
 
 - 📫 How to reach me **kayasthayush123@gmail.com**
 
